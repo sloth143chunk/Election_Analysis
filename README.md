@@ -11,7 +11,7 @@ A Colorado Board of Elections employee has given the following tasks to complete
 
 ## Resources
 -Data Source: election_results.csv
-- Softwar: Python 3.7, Yisual Studio Cod, 1.47
+- Softwar: Python 3.7, Visual Studio Cod, 1.47
 
 ## Summary
 The analysis of the election shows that:
