@@ -38,9 +38,10 @@ The candidate results were
 The winner of the election was:
 Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
+![Election Results](/Election_results.png)
 ## Challenge Summary
 
-The election audit created for this local congressional election, with some modifications, can be used for other elections around the state.  With more voter information the script can be written to analyze individual/party voting patterns, county patterns based on party alliance, or other comparisons with more data.  With any other election this script can also be modified to compare differe district or state elections to analyze voting patterns on a larger scale.
+The election audit created for this local congressional election, with some modifications, can be used for other elections around the state.  With more voter information the script can be written to analyze individual/party voting patterns, county patterns based on party alliance, or other comparisons with more data.  With any other election this script can also be modified to compare different district or state elections to analyze voting patterns on a larger scale.
 
 ## Resources
 - Data Source: election_results.csv
