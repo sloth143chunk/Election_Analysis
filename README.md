@@ -20,8 +20,8 @@ The analysis of the election shows that:
 - The counties were
   - Jefferson
   - Denver
-  -Arapahoe
-- The county results were
+  - Arapahoe
+  The county results were
   - Jefferson: 10.5% (38,855)
   - Denver: 82.8% (306,055)
   - Arapahoe: 6.7% (24,801)
