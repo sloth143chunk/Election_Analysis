@@ -17,24 +17,24 @@ The purpose of this election audit was to provide an analysis of the election re
 
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election
-- The counties were
+The counties were
   - Jefferson
   - Denver
-  -Arapahoe
-- The county results were
+  - Arapahoe
+The county results were
   - Jefferson: 10.5% (38,855)
   - Denver: 82.8% (306,055)
   - Arapahoe: 6.7% (24,801)
 The county with the largest turnout was:
 Denver with 306,055 votes and 83% of the vote
-- The candidates were:
+The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
--The candidate results were
-  -Charles Casper Stockham: 23.0% (85,213)
-  -Diana DeGette: 73.8% (272,892)
-  -Raymon Anthony Doane: 3.1% (11,606)
+The candidate results were
+  - Charles Casper Stockham: 23.0% (85,213)
+  - Diana DeGette: 73.8% (272,892)
+  - Raymon Anthony Doane: 3.1% (11,606)
 The winner of the election was:
 Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
@@ -43,5 +43,5 @@ Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 The election audit created for this local congressional election, with some modifications, can be used for other elections around the state.  With more voter information the script can be written to analyze individual/party voting patterns, county patterns based on party alliance, or other comparisons with more data.  With any other election this script can also be modified to compare differe district or state elections to analyze voting patterns on a larger scale.
 
 ## Resources
--Data Source: election_results.csv
+- Data Source: election_results.csv
 - Software: Python 3.7, Visual Studio Code, 1.47
