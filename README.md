@@ -17,11 +17,11 @@ The purpose of this election audit was to provide an analysis of the election re
 
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election
-- The counties were
+The counties were
   - Jefferson
   - Denver
   - Arapahoe
-  The county results were
+The county results were
   - Jefferson: 10.5% (38,855)
   - Denver: 82.8% (306,055)
   - Arapahoe: 6.7% (24,801)
