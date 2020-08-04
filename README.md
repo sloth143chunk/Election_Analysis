@@ -17,14 +17,17 @@ The purpose of this election audit was to provide an analysis of the election re
 
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election
+
 The counties were
   - Jefferson
   - Denver
   - Arapahoe
+
 The county results were
   - Jefferson: 10.5% (38,855)
   - Denver: 82.8% (306,055)
   - Arapahoe: 6.7% (24,801)
+
 The county with the largest turnout was:
 Denver with 306,055 votes and 83% of the vote
 The candidates were:
@@ -35,6 +38,7 @@ The candidate results were
   - Charles Casper Stockham: 23.0% (85,213)
   - Diana DeGette: 73.8% (272,892)
   - Raymon Anthony Doane: 3.1% (11,606)
+
 The winner of the election was:
 Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
