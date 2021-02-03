@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Challenge Overview
+## Project Overview
 
 The purpose of this election audit was to provide an analysis of the election results and return the winner and top county for a local congressional election tasked by the Colorado Board of Elections.
 
@@ -13,7 +13,7 @@ The purpose of this election audit was to provide an analysis of the election re
 7. Calculate the percentage of votes from each county.
 8. Determine the county with the highest turnout.
 
-## Challenge Results
+## Results
 
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election
@@ -44,7 +44,7 @@ Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ![Election Results](/Election_results.PNG)
 
-## Challenge Summary
+## Summary
 
 The election audit created for this local congressional election, with some modifications, can be used for other elections around the state.  With more voter information the script can be written to analyze individual/party voting patterns, county patterns based on party alliance, or other comparisons with more data.  With any other election this script can also be modified to compare different district or state elections to analyze voting patterns on a larger scale.
 
